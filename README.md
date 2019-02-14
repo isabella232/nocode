@@ -120,6 +120,15 @@ Yep. That's it. By n ow you should be able to see nothing.
 ```
 
 
+### Troubleshooting guide
+
+For every issue try,
+
+```
+
+```
+It should resolve it immediately.
+
 ## Contributing
 
 You do! Remember to add ` `.
