@@ -92,6 +92,20 @@ Here is an example nocode on Microsoft Azure. Same can be achieved on AWS Cloud.
 
 Take a moment to absorb that.
 
+## Testing
+Now that you do not have any tests, run the tests.
+
+```
+
+```
+
+Yep. That's it. By n ow you should be able to see nothing.
+
+```
+
+```
+
+
 ## Contributing
 
 You do! Remember to add ` `.
