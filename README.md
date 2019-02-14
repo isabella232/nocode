@@ -55,6 +55,20 @@ If nothing was outputted, or the `$?` gives a 0 return value, then all tests wer
 
 ```
 
+### Testing the application
+
+To run full tests of the application:
+
+```
+
+```
+
+To run end to end tests of the application:
+
+```
+
+```
+
 ### Deploying
 
 While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
