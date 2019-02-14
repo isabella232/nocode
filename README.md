@@ -139,6 +139,15 @@ For every issue try,
 ```
 It should resolve it immediately.
 
+
+### Dockerize No Code
+Build an image. It will work even without Docker.
+```
+docker build . > /dev/null 2>&1
+```
+
+That's it.
+
 ## Contributing
 
 You do! Remember to add ` `.
