@@ -152,6 +152,8 @@ docker build . > /dev/null 2>&1
 
 That's it.
 
+To make entirely sure nocode is working, it is recommended that you turn off your computer.
+
 ## Contributing
 
 You do! Remember to add ` `.
