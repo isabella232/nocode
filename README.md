@@ -2,7 +2,7 @@
 # No Code
 [![Build Status](https://travis-ci.org/dvdmuckle/nocode.svg?branch=master)](https://travis-ci.org/dvdmuckle/nocode)
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+No code is the best way to write secure and reliable applications. It is also blazing fast. Write nothing; deploy nowhere.
 
 ## Demo
 ![demo gif](https://media.giphy.com/media/3o6Zt7npmUtWmmQ2kw/giphy.gif)
