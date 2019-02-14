@@ -7,6 +7,10 @@ No code is the best way to write secure and reliable applications. It is also bl
 ## Demo
 ![demo gif](https://media.giphy.com/media/3o6Zt7npmUtWmmQ2kw/giphy.gif)
 
+> "The cheapest, fastest and most reliable components of a computer system are those that aren't there." 
+>
+> -- <cite>Gordon Bell</cite>
+
 ## Getting Started
 
 Start by not writing any code.  
