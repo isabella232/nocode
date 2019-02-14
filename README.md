@@ -69,6 +69,16 @@ To run end to end tests of the application:
 
 ```
 
+### Automated Testing the code
+
+Now it' time to add some tests to your code to ensure it works the way you think it should. 
+
+```
+
+```
+
+Now your code is safe and bug-free. Simple, right ?
+
 ### Deploying
 
 While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
